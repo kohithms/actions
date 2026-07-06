@@ -1,5 +1,5 @@
 trigger: none
-appendCommitMessageToRunName: false
+#appendCommitMessageToRunName: false
 
 pool:
   vmImage: ubuntu-latest
